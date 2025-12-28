@@ -1,0 +1,13 @@
+data/raw/*
+data/processed/*
+
+__pycache__/
+*.pyc
+*.pyo
+
+env/
+venv/
+
+notebooks.ipynb_checkpoints/
+
+.DS_Store
